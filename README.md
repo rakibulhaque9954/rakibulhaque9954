@@ -21,10 +21,10 @@ I'm a firm believer in the value of sharing knowledge. You'll often find me writ
 ## 🌐 Connect with Me
 I'd love to connect with fellow machine learning enthusiasts and expand my network. You can find me on various social platforms:
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rakibul-haque-239b69254/) 💼
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/rakibul-haque-239b69254/) 💼
   Connect with me professionally and explore my background.
 
-- **GitHub:** [GitHub Profile](https://github.com/rakibulhaque9954) 💻
+- **GitHub:** [My GitHub Profile](https://github.com/rakibulhaque9954) 💻
   Check out my latest projects and contributions.
 
 - **Blogzart!:** [Rakibul's Thoughts(my blogsite)](https://rakibuls-thoughts.onrender.com) ✍️
