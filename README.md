@@ -13,7 +13,7 @@ In addition to my love for machine learning, I'm also a devoted basketball enthu
 Exploring the cutting-edge world of quantum computing is another one of my interests. The quantum realm holds the potential to revolutionize computing, and I'm excited to be part of this journey.
 
 ## 🛠️ Projects
-You'll find a collection of my machine learning projects here, each one representing a unique challenge and learning opportunity. Feel free to explore, contribute, or provide feedback. Let's learn and grow together!
+You'll find a collection of my machine learning [projects](https://github.com/rakibulhaque9954?tab=repositories) here, each one representing a unique challenge and learning opportunity. Feel free to explore, contribute, or provide feedback. Let's learn and grow together!
 
 ## 📚 Learning Together
 I'm a firm believer in the value of sharing knowledge. You'll often find me writing posts, articles and experiences to help others on their machine learning journey and life itself. Check out my blog [Rakibul's Thoughts](https://rakibuls-thoughts.onrender.com) to dive into some exciting topics.
