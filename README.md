@@ -15,6 +15,9 @@ Exploring the cutting-edge world of quantum computing is another one of my inter
 ## 🛠️ Projects
 You'll find a collection of my machine learning [projects](https://github.com/rakibulhaque9954?tab=repositories) here, each one representing a unique challenge and learning opportunity. Feel free to explore, contribute, or provide feedback. Let's learn and grow together!
 
+## Ishinomaki Hackathon
+I also had the privilege of participating in the [Ishinomaki Hackathon](https://github.com/ishinomaki-hackathon), an organization dedicated to innovative projects and solutions. It was an incredible experience collaborating with a talented group of individuals to create meaningful solutions.
+
 ## 📚 Learning Together
 I'm a firm believer in the value of sharing knowledge. You'll often find me writing posts, articles and experiences to help others on their machine learning journey and life itself. Check out my blog [Rakibul's Thoughts](https://rakibuls-thoughts.onrender.com) to dive into some exciting topics.
 
