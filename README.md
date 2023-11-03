@@ -13,6 +13,9 @@ In addition to my love for machine learning, I'm also a devoted basketball enthu
 ## ⚛️ Quantum Computing Explorer
 Exploring the cutting-edge world of quantum computing is another one of my interests. The quantum realm holds the potential to revolutionize computing, and I'm excited to be part of this journey.
 
+## Portfolio
+Check out my [webpage](https://rakibulhaque-portfolio.onrender.com) where i break down my top projects.
+
 ## 🛠️ Projects
 You'll find a collection of my machine learning [projects](https://github.com/rakibulhaque9954?tab=repositories) here, each one representing a unique challenge and learning opportunity. Feel free to explore, contribute, or provide feedback. Let's learn and grow together!
 
